@@ -7,8 +7,8 @@ main()
 #include <stdio.h>
 int main ()
 {
-   char yourname[100];
+   char Nut[100];
    printf("What is your name?\t");
-   scanf("%s",yourname);
-    printf("hello, %s\n", yourname);
+   scanf("%s",Nut);
+    printf("hello, %s\n", Nut);
 }
