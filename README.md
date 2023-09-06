@@ -1,7 +1,5 @@
-# cl666-01
-# cl666-01
-
-Computer Laboratory 2566 - Lab 01
-
-My name is Nut Phlaengdecha
-Edited by Github Text Editor.
+#include < stdio.h >
+main()
+{
+  printf("hello, world\n");
+}
