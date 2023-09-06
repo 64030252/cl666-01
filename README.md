@@ -11,4 +11,5 @@ int main ()
    printf("What is your name?\t");
    scanf("%s",Nut);
     printf("hello, %s\n", Nut);
+    printf("Goodbye\n"); 
 }
